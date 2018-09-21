@@ -1,0 +1,26 @@
+_repo: The-House-of-Armour_53697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saunders, Marshall
+    alias: Saunders, Margaret Marshall
+    birthdate: 1861
+    deathdate: 1947
+    gutenberg_agent_id: '1041'
+    url: http://www.gutenberg.org/2009/agents/1041
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
+description: ''
+gutenberg_issued: '2016-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Halifax (N.S.) -- Fiction'
+- GITenberg
+title: The House of Armour
+url: http://www.gutenberg.org/ebooks/53697
